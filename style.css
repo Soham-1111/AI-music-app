@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+}
+
+.header{
+    width:100%;
+    margin-top:0;
+    box-shadow:5px 5px 15px;
+
+}
+
+#heading{
+    font-size: 30px;
+    font-weight:bold; 
+    color:navy;
+    
+}
+
+.heading2{
+    font-size: 20px;
+    color:navy; 
+}
+
+.songName{
+    margin-top:30px;
+}
+
+canvas{
+    border-width: 5px;
+    border-color:whitesmoke;
+    border-style: solid;
+   border-radius:20px;
+}
